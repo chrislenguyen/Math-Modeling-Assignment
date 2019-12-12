@@ -1,16 +1,13 @@
 Path transport:
 		Cus[1]	Cus[2]	Cus[3]	Cus[4]	Cus[5]	Cus[6]	Cus[7]	Cus[8]	Cus[9]	Cus[10]	
-Warehouse[1]:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	
-Warehouse[2]:	  0	  0	  0	  0	  0	  42	  45	  0	  0	  60	
-Warehouse[3]:	  0	  0	  0	  59	  0	  0	  0	  51	  0	  0	
-Warehouse[4]:	  57	  0	  0	  0	  53	  0	  0	  0	  60	  0	
-Warehouse[5]:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	
-Warehouse[6]:	  0	  59	  42	  0	  0	  0	  0	  0	  0	  0	
-Warehouse[7]:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	
-Warehouse[8]:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	
+Warehouse[1]:	  0	  0	  0	  0	  0	  0	  51	  0	  47	  0	
+Warehouse[2]:	  0	  50	  0	  43	  46	  55	  0	  0	  0	  0	
+Warehouse[3]:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	
+Warehouse[4]:	  0	  0	  0	  0	  0	  0	  0	  0	  0	  0	
+Warehouse[5]:	  43	  0	  51	  0	  0	  0	  0	  42	  0	  48	
 
 warehouse status:
-WH[1]	WH[2]	WH[3]	WH[4]	WH[5]	WH[6]	WH[7]	WH[8]	
-  0	  1	  1	  1	  0	  1	  0	  0	
+WH[1]	WH[2]	WH[3]	WH[4]	WH[5]	
+  1	  1	  0	  0	  1	
 
-Total amount: 2733.61127
+Total amount: 2469.53220
